@@ -1,3 +1,4 @@
+![logo](https://github.com/codeBunny2022/codeBunny2022/blob/main/state%20of%20the%20art....png)
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">Full Stack Deep Learning Developer</h3>
 <img align="right" alt="code" src="https://github.com/codeBunny2022/codeBunny2022/blob/main/codeit.gif" height="150" width="250">
