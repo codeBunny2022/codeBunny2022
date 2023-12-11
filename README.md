@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">Full Stack Deep Learning Developer</h3>
-<img align="right" alt="code" src="https://github.com/codeBunny2022/codeBunny2022/blob/main/giphy.gif" height="250" width="250">
+<img align="right" alt="code" src="https://github.com/codeBunny2022/codeBunny2022/blob/main/codeit.gif" height="150" width="250">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebunny2022&label=Profile%20views&color=0e75b6&style=flat" alt="codebunny2022" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebunny2022" alt="codebunny2022" /></a> </p>
