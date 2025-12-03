@@ -3,16 +3,13 @@
 
   <h1>Hi 👋, I'm Chirag</h1>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=30A0F0&width=435&center=true&lines=Full+Stack+Developer;Deep+Learning+Enthusiast" alt="Typing SVG" /> </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=codebunny2022&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </p>
+  
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebunny2022&label=Profile%20views&color=0e75b6&style=flat" alt="codebunny2022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebunny2022" alt="codebunny2022" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🌱 I’m currently learning **Devops (AWS CDK, Terraform)**
 
