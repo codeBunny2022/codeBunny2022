@@ -25,9 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=codeBunny2022&theme=dark" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codeBunny2022"/></a>
 </p>
 
 ## 📰 Latest Activity & Pull Requests
