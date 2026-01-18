@@ -24,10 +24,12 @@
 <a href="https://linkedin.com/in/chirag-chauhan-b17617245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-chauhan-b17617245" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=codeBunny2022&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
-
-
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=codeBunny2022)](https://git.io/streak-stats)</p>
 ## 📰 Latest Activity & Pull Requests
 
 <div align="center">
