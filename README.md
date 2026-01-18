@@ -26,8 +26,8 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebunny2022&" alt="codebunny2022" /></p>
 
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=codeBunny2022)](https://git.io/streak-stats)</p>
 ## 📰 Latest Activity & Pull Requests
 
 <div align="center">
