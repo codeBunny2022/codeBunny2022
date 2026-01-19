@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=codeBunny2022)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=codeBunny2022&theme=dark)](https://git.io/streak-stats)
 </p>
 
 
