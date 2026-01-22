@@ -24,9 +24,7 @@
 <a href="https://linkedin.com/in/chirag-chauhan-b17617245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-chauhan-b17617245" height="30" width="40" /></a>
 </p>
 
-
-<p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeBunny2022&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-</p>
+<p align="center"><a href="https://github-readme-streak-stats.herokuapp.com?user=codeBunny2022&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="chirag-chauhan-b17617245" height="30" width="40" /></a></p>
 
 
 
